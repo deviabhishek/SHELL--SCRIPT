@@ -3,6 +3,13 @@ hello
 
 ********************SHELL-SCRIPTING TOPICES****************
 
+***TOPICS***
+1.Shell scripting file
+2.How to executing shell script
+-----------------************--------------
+
+
+
 
 1.She-bang  &  coments
 2.Print
