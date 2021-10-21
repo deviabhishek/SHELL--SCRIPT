@@ -1,1 +1,14 @@
 hello
+
+
+********************SHELL-SCRIPTING TOPICES****************
+
+
+1.She-bang  &  coments
+2.Print
+3.Variables
+4.Inputs
+5.Functions
+6.Redirectors , Quotes ,Exit state
+7.Conditions
+8.Loops
